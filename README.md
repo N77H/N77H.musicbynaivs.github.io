@@ -1,8 +1,8 @@
 # MusicbyNaivs | Official
 
-Welcome to my official portfolio website!
+Welcome to Naivs' official portfolio website!
 
-🎶 I'm a music producer with experience working on:
+🎶 He a music producer with experience working on:
 - 🎥 Pixar
 - 🏰 Disney
 - 🦸 Marvel Studios (Deadpool 2)
@@ -12,7 +12,7 @@ Welcome to my official portfolio website!
 - 4× Legendary in MP & BR (Call of Duty Mobile)
 - Sniper, SMG, and LMG Mastery
 
-✍️ I'm also a passionate story writer, voiceover & dubbing enthusiast.
+✍️ I'm also a passionate writing , voiceover & dubbing enthusiast.
 
 🔗 Live Website: [https://N77H.github.io](https://N77H.github.io)
 
