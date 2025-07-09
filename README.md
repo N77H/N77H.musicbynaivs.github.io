@@ -71,7 +71,7 @@ a {
     <p>Musician | Gamer | Creator | Storyteller</p>
   </header>  <main>
     <section>
-      <h2>About Me</h2>
+      <h2>About Naivs</h2>
       <p>Hey there, I'm <strong>Naivs</strong> — an Albanian-born multi-talent currently based in India 🇦🇱➝🇮🇳. I'm a passionate <strong>music producer</strong>, <strong>CODM gamer</strong>, and <strong>creative writer</strong>. I'm all about crafting powerful vibes, both sonically and emotionally.</p><p>I've worked on projects with <strong>Pixar</strong>, <strong>Disney</strong>, <strong>Marvel Studios (Deadpool 2)</strong>, and even had backstage involvement at <strong>Tomorrowland</strong>. My music blends genres like <strong>future bass</strong>, <strong>trap</strong>, <strong>phonk</strong>, <strong>drill</strong>, <strong>k-pop</strong>, <strong>j-pop</strong>, <strong>bigroom</strong>, <strong>hardstyle</strong>, and <strong>hardcore</strong>.</p>
 
   <p>In gaming, I’m proud to be a <strong>4× Legendary in Call of Duty Mobile</strong> (both MP and BR), with a sharp aim using <em>M13, MG42, Fennec, Tundra, and Locus</em>.</p>
