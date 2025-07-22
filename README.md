@@ -114,4 +114,6 @@ a {
   </main>  <footer>
     &copy; 2025 MusicbyNaivs | Built with ❤️ | Albania to India 🌍
   </footer>
-</body></html> google-site-verification: googlec7f2cb3af20f7697.html
+</body></html>
+
+ google-site-verification: googlec7f2cb3af20f7697.html
